@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gym-booking/static/css/main.b643dfeb.css",
+    "main.js": "/gym-booking/static/js/main.76cca89a.js",
+    "static/js/453.c93a984f.chunk.js": "/gym-booking/static/js/453.c93a984f.chunk.js",
+    "index.html": "/gym-booking/index.html",
+    "main.b643dfeb.css.map": "/gym-booking/static/css/main.b643dfeb.css.map",
+    "main.76cca89a.js.map": "/gym-booking/static/js/main.76cca89a.js.map",
+    "453.c93a984f.chunk.js.map": "/gym-booking/static/js/453.c93a984f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b643dfeb.css",
+    "static/js/main.76cca89a.js"
+  ]
+}
